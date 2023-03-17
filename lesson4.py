@@ -6,4 +6,4 @@ for i in range(4):
 print('Факт', fact)
 print('Факт', fact)
 print('Факт', fact)
-print('RHEEEENm', fact)
+print('Пока жи мне покажииии', fact)
